@@ -1,5 +1,7 @@
 <center><h1>Git & GitHub - Explorando Colaboração e Markdown </h1></center>
 
+No desafio abaixo, pude aplicar todo o conhecimento adquirido durante essa etapa do curso, inclusive já fiz a edição do meu <a href='https://github.com/rafaelsousadevbr'>README.md</a>, basta clicar no link e poderá ver o resultado final. Muito empolgado com tudo que venho evoluindo durante essa etapa de aprendizado.
+
 #### >> DESAFIO DE PROJETO <<
 
 Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
